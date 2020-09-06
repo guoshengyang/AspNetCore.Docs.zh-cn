@@ -14,7 +14,7 @@ no-loc:
 - Blazor WebAssembly
 - Identity
 - Let's Encrypt
-- Razor
+- Razoro
 - SignalR
 uid: tutorials/first-web-api
 ms.openlocfilehash: 3d83141b8b638a369b08b0fadafccd96c0b48214
@@ -278,8 +278,8 @@ ms.locfileid: "88876784"
 # <a name="visual-studio"></a>[Visual Studio](#tab/visual-studio)
 
 * 右键单击 Controllers 文件夹。
-* 选择“添加”>“新建构建项” 。
-* 选择“其操作使用实体框架的 API 控制器”，然后选择“添加” 。
+* 选择“添加”>“新建控制器” 。
+* 选择“其操作使用Entity FrameWork的 API 控制器”，然后选择“添加” 。
 * 在“添加其操作使用实体框架的 API 控制器”对话框中：
 
   * 在“模型类”中选择“TodoItem (TodoApi.Models)” 。
